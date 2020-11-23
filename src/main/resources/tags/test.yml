@@ -1,0 +1,8 @@
+name: Test
+display: '&cTest'
+prices:
+  coins: 10
+  cash: 5
+inventory-item:
+  material: GOLD_SWORD
+  glow: true
